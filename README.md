@@ -16,4 +16,8 @@ npm run dev
 npm run build
 ```
 
-## 图片预览： ![index](index.jpg) ![score](score.png)
+## 图片预览：
+
+
+
+ ![index](index.jpg) ![score](score.jpg)
