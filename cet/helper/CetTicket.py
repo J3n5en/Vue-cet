@@ -97,8 +97,8 @@ class CetCipher(object):
 
 class CetCipher(CetCipher):
 
-    ticket_number_enc_key = ')XdsuORX'
-    ticket_number_dec_key = '(YesuNRY'
+    ticket_number_enc_key = 'PgidW;O;'
+    ticket_number_dec_key = '021yO6d<'
 
     def encrypt_ticket_number(self, ticket_number):
         ciphertext = self.process_data(ticket_number,
